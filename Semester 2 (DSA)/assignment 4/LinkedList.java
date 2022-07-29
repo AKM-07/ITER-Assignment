@@ -4,7 +4,7 @@ public class LinkedList
 	public static Node create(Node start)
 	{
 		Scanner in = new Scanner(System.in);
-		System.out.print("Enter Regd_no :");
+		System.out.print("Enter RegdNo :");
 		int r=in.nextInt();
 		System.out.print("Enter Marks :");
 		float m=in.nextFloat();
